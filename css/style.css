@@ -1,0 +1,253 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+margin: 0px auto;
+}
+.dropdown-item{
+	color: #000000;
+}
+.heading-1{
+	
+	font-family:"nova-flat";
+	padding: 10px;
+	margin-top: 150px;
+	margin-left: -90px;
+}
+.paragraph-1{
+	margin-left: -90px;
+	padding: 10px;
+}
+.btn-1{
+	color: black; 
+	background: #2945ff;
+	border-radius: 40px;
+	padding: 10px 50px ;
+	margin-left: -80px;
+	font-size: 20px;
+	font-family: "nova-round";
+}
+.btn-2{
+	color: black; 
+	background: #2945ff;
+	border-radius: 40px;
+	padding: 10px 50px ;
+	margin-right: 170px;
+	font-size: 20px;
+	font-family: "nova-round";
+}
+.jumbotron{
+	background-color: #BEEBCE;
+}
+.img-fluid{
+	width: 60%;
+}
+.heading-2{
+	font-family:"nova-flat";
+	padding: 10px;
+	margin-top: 250px;
+	margin-left: -90px;
+}
+.paragraph-2{
+	padding: 10px;
+	text-align: justify;
+	margin-left: 125px;;
+}
+.content{
+	align-content: flex-start;
+}
+.image{
+	margin-top: 60px;
+}
+.fa-star{
+	color: green;
+}
+.fa-star-half-alt{
+	color:green;
+}
+.fa-quote-left{
+	color: green;
+}
+.fa-quote-right{
+	color: green;
+}
+.text{
+	color: black;
+	font-size: 22px;
+	padding :20px 10px ;
+	display: inline-block;
+}
+.box {
+	float: left;
+	text-align: left;
+}
+.box-1  {
+	float: right;
+	text-align: left;
+}
+.box-1 ,.heading-3 {
+	font: 24px;
+	margin: 0px 0px 20px 10px;
+	color: #25313b;
+}
+.layout-1{
+	padding-top: 40px;		
+}
+.layout-2{
+	padding-top: 40px;
+}
+.layout-3  {
+	padding-top: 40px;
+}
+.layout-4{
+	padding-top: 40px;
+}
+.h-2{
+	font-size: 30px; 
+	font-style: oblique;
+}
+.subheading{
+	text-align: center;
+	font: 12px;
+	color: #25313b;
+}
+.bn-subheading{
+	padding: 20px;
+}
+.bn-alertheading{
+	padding: 20px;
+	font-weight: 600;
+	font-family: 16px ;
+	color: black;
+}
+footer{
+	background-color: black;
+	color: aliceblue;
+}
+.footer-content{
+	font-size: 12px;
+	text-align: justify;
+}
+.banner{
+	background-color: black;
+	color: aliceblue;
+}
+.banner-heading{
+	padding-top: 140px;
+}
+.banner-para{
+	font-size: 15px;	
+}
+.banner-btn .rounded-pill{
+	background-color: blue;
+	color: aliceblue;
+	padding: 10px 50px;
+	padding-bottom: 10px;
+}
+.banner-btn{
+	padding: 30px;
+}
+.banner-para-2{
+	color: black;
+	font-size: 24px;
+	padding: 20px;
+}
+.banner-btn-2 .rounded-pill {
+	background-color: blue;
+	color: aliceblue;
+	padding: 10px 50px;
+	margin-top:  15px;
+}
+.banner-subpara-2 .subpara {
+	font-weight: bolder;
+	color: black;
+	font: 29px;
+	padding: 45px 0px 0px;
+	margin: 0px 0px 47px;
+}
+.main-content{
+	font:16px ;
+	padding:0px 20px 20px ;
+}
+.content-card{
+	font: 22px;
+}
+.intro{
+	font-size: 38px;
+	margin: 0px 0px 60px;
+}
+.banner-heading-3{
+	font-size: 80px;
+	font: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	color: #262626;
+	margin: 0px 0px 30px;
+	padding: 50px 50px;
+}
+.banner-para-3 {
+	font-size: 50px;
+}
+.para-3{
+	margin: 0px 0px 60px;
+	font-size: 38px;
+	margin-left: 60px;
+}
+.content-card-cta{
+	font: 16px;
+}
+.content-card-btn{
+	font: 15px;
+	padding: 15px 50px;
+	background: #2945ff;
+	color: white;
+	margin-left: 60px;
+}
+.content-cardd{
+	font: 16px;
+	color: #262626;
+	margin: 25px 0px 15px;
+}
+.content-cardd-span {
+	font-size : 24px;
+	margin-left: 60px;
+}
+.content-cardd-link {
+	font: 24px;
+}
+.content-carddd{
+	font: 16px;
+}
+.last-para  {
+	font-size: 11px;
+	margin: 0px 0px 20px;
+	margin-left: 90px;
+	text-align: center;
+}
+.div-main{
+	font-size: 16px;
+	padding: 10px 11px;
+	color: #262626;
+	background: white;
+}
+.sub-div{
+	font-size : 16px;
+	padding: 7px 0px;
+}
+.left-div{
+	margin: 0px 2px 0px 0px;
+	font-size : 14px;
+}
+.right-div{
+	font-size: 12px;
+	margin: 0px 0px 0px 8px;
+	padding: 8px 12px ;
+}
+.right-div-btn{
+	color: white;
+	background: blue;
+	padding: 8px 30px;
+	padding-bottom: 10px;
+}
+.top-banner-para{
+	font-weight: bold;
+	padding: 17px;
+}
